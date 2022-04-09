@@ -1,4 +1,12 @@
+---
+title: |
+  ![](images/logo_talm.png)
+  Dossier de projet
+author: Rodrigue GASPARD
+date: 2021 - 2022
+---
 
+\pagebreak
 
 # Sommaire
 1.  [Liste des compétences validées]
@@ -11,7 +19,11 @@
     * [Modèle conceptuel de données]
     * [Modèle physique des données]
 
+\pagebreak
+
 # Liste des compétences validées
+
+\pagebreak
 
 # Introduction
 Dans le cadre de ma formation Bachelor Développeur Web à MyDigitalSchool Angers, j’ai effectué mon alternance à __[l’École supérieure d’Art et de Design TALM-Angers (ESAD-TALM)](https://esad-talm.fr/)__ pour l’année académique 2021-2022.
@@ -37,7 +49,9 @@ My job consists in creating and managing the database, and developing user inter
 
 # FileMaker
 
-__[FileMaker](https://www.claris.com/fr/)__ est un logiciel multi-plateformes de gestion de bases de données relationelles qui a été crée en avril 1985 par Claris International Inc. qui est une filiale d’Apple.
-Il est composé d’un moteur de bases de données et d’un environnement graphique.
+![Logo de FileMaker](images/FileMaker_Inc_logo.png){width=50%}
 
+__[FileMaker](https://www.claris.com/fr/)__ est un logiciel multi-plateformes de gestion de bases de données relationelles qui a été crée en avril 1985 par Claris International, une filiale d’Apple.
+Il est composé d’un moteur de bases de données relationnelles et d’un environnement graphique.
 
+![Modèle physique de données généré par FileMaker](images/tables_filemaker.png)
