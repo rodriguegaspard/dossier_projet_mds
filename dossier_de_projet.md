@@ -4,6 +4,7 @@ title: |
   Dossier de projet
 author: Rodrigue GASPARD
 date: 2021 - 2022
+papersize: a4
 ---
 
 \pagebreak
@@ -47,11 +48,49 @@ I worked full-time from march 2021 until september 2021, by which point my contr
 ESAD-TALM was looking to replace their old database management system, called iMuse and created by SAIGA Informatique, with FileMaker, which is a cross-platform relational database application, created by Claric Inc.
 My job consists in creating and managing the database, and developing user interfaces and scripts specifically tailored to the college’s needs.
 
-# FileMaker
+# Présentation de l'entreprise
 
-![Logo de FileMaker](images/FileMaker_Inc_logo.png){width=50%}
+## Organigramme
+
+# Présentation du projet
+
+Dans le cadre de mon alternance, j'ai travaillé sur la création d'un logiciel de gestion basé sur la solution FileMaker, qui sera utilisé par les trois sites pédagogiques de l'École supérieure d'Art et de Design TALM.
+Il est composé de plusieurs interfaces graphiques crées avec FileMaker permettant aux divers utilisateurs (agents pédagogiques, professeurs, élèves) de lire, créer ou modifier les enregistrements de la base de données relationnelle.
+Les interfaces graphiques sont personalisées en fonction du type d'utilisateur et de son site d'appartenance.
+Plusieurs scripts d'automatisation sont mis en place afin de faciliter la saisie de données pour les différents utilisateurs.
+
+Le logiciel est divisé en plusieurs *modules*, correspondant à un usage spécifique.
+Les principaux modules sont :
+
+* Le module contact, qui est le centre névralgique du logiciel et de la base de données. Il permet de créer et de gérer des contacts (élèves, professeurs, participants cours public, candidats aux concours..)
+* Le module élève, qui est une extension du module contact. Il permet de gérer toutes les informations liées aux élèves inscrits à l'école (promotion, cursus, stages, bourses, informations SISE..)
+* Le module promotion, qui gère les cursus, les promotions, la génération de plusieurs documents comme
+* Le module de régie, permettant d'enregistrer, modifier ou archiver des transactions et de générer plusieurs documents (factures, devis, reçus, remises..)
+
+Pour avoir une vue d'ensemble de l'arborescence de ces différents modules, merci de vous référer au __[Modèle conceptuel de données]__, ou bien au __[Modèle physique de données]__.
+
+\pagebreak
+
+## FileMaker
+
+![Logo de FileMaker](images/FileMaker_Inc_logo.png){ width=50% }
 
 __[FileMaker](https://www.claris.com/fr/)__ est un logiciel multi-plateformes de gestion de bases de données relationelles qui a été crée en avril 1985 par Claris International, une filiale d’Apple.
 Il est composé d’un moteur de bases de données relationnelles et d’un environnement graphique.
 
 ![Modèle physique de données généré par FileMaker](images/tables_filemaker.png)
+
+\pagebreak
+
+## Modèle conceptuel de données
+
+\pagebreak
+
+## Modèle physique de données
+
+
+\pagebreak
+
+## Maquettage
+
+\pagebreak
