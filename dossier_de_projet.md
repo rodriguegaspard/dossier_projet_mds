@@ -18,7 +18,7 @@ papersize: a4
 4. [Présentation du projet]
     * [FileMaker]
     * [Modèle conceptuel de données]
-    * [Modèle physique des données]
+    * [Modèle physique de données]
 
 \pagebreak
 
@@ -106,10 +106,11 @@ Il est composé d’un moteur de bases de données relationnelles et d’un envi
 
 ## Modèle conceptuel de données
 
+![Modèle conceptuel des principaux modules](images/mcd.png)
+
 \pagebreak
 
 ## Modèle physique de données
-
 
 \pagebreak
 
