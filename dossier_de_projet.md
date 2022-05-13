@@ -24,6 +24,28 @@ papersize: a4
 
 # Liste des compétences validées
 
+En accordance avec les compétences évaluées lors de la session d'examen pour le CDA, j'informe avoir validé les compétences suivantes avec mon projet professionnel lors de mon alternance :
+
+* Maquetter une application 
+* Développer une interface utilisateur de type desktop 
+* Développer des composants d’accès aux données 
+* Concevoir une base de données 
+* Mettre en place une base de données 
+* Développer des composants dans le langage d’une base de données 
+* Collaborer à la gestion d’un projet informatique et à l’organisation de l’environnement 
+* de développement 
+* Concevoir une application 
+* Développer des composants métier 
+* Construire une application organisée en couches 
+* Préparer et exécuter les plans de tests d’une application 
+* Préparer et exécuter le déploiement d’une application 
+
+Les compétences suivantes n'ont pas étés validées par mon projet professionel, mais elles ont étées validées par le MyDigitalProject, qui est un projet annexe réalisé en groupe au sein de mon école :
+
+* Développer la partie front-end d’une interface utilisateur web 
+* Développer la partie back-end d’une interface utilisateur web 
+* Développer une application mobile 
+
 \pagebreak
 
 # Introduction
