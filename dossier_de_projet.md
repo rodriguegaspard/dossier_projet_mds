@@ -86,7 +86,7 @@ Les principaux modules sont :
 
 * Le module contact, qui est le centre névralgique du logiciel et de la base de données. Il permet de créer et de gérer des contacts (élèves, professeurs, participants cours public, candidats aux concours..)
 * Le module élève, qui est une extension du module contact. Il permet de gérer toutes les informations liées aux élèves inscrits à l'école (promotion, cursus, stages, bourses, informations SISE..)
-* Le module promotion, qui gère les cursus, les promotions, la génération de plusieurs documents comme
+* Le module cours public, qui permet de créer des cours publics, externes à l'école, de gérer les tarifs, d'inscrire des contacts aux cours et gérer librement les inscriptions, et de générer divers documents (feuille d'émargement, trombinoscope..) 
 * Le module de régie, permettant d'enregistrer, modifier ou archiver des transactions et de générer plusieurs documents (factures, devis, reçus, remises..)
 
 Pour avoir une vue d'ensemble de l'arborescence de ces différents modules, merci de vous référer au __[Modèle conceptuel de données]__, ou bien au __[Modèle physique de données]__.
