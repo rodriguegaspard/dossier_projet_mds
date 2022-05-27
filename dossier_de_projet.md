@@ -14,7 +14,6 @@ papersize: a4
 2.  [Introduction]
     * [Résumé en anglais]
 3. [Présentation de l'entreprise]
-    * [Organigramme]
 4. [Présentation du projet]
     * [FileMaker]
     * [Modèle conceptuel de données]
@@ -72,7 +71,10 @@ My job consists in creating and managing the database, and developing user inter
 
 # Présentation de l'entreprise
 
-## Organigramme
+L'École supérieure d'Art et de Design TALM, implantée sur trois villes (Tours, Angers et Le Mans), trois départements (Indre-et-Loire, Maine-et-Loire, Sarthe) et deux régions (Centre Val-de-Loire et Pays de la Loire) est une des actrices majeures de l’enseignement supérieur et de la culture des territoires ligériens.
+
+L'école réunit à ce jour plus de six-cents élèves (troisième école d’enseignement artistique en France), et cent-quarante-cinq salariés dont cent-cinq professeurs.
+
 
 # Présentation du projet
 
