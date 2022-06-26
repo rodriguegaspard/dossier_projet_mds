@@ -14,6 +14,7 @@ papersize: a4
 2.  [Introduction]
     * [Résumé en anglais]
 3. [Présentation de l'entreprise]
+    * [Organigramme]
 4. [Présentation du projet]
     * [FileMaker]
     * [Modèle conceptuel de données]
@@ -75,6 +76,11 @@ L'École supérieure d'Art et de Design TALM, implantée sur trois villes (Tours
 
 L'école réunit à ce jour plus de six-cents élèves (troisième école d’enseignement artistique en France), et cent-quarante-cinq salariés dont cent-cinq professeurs.
 
+## Organigramme
+
+![Organigramme de l'ESAD-TALM](images/organigramme.png)
+
+\pagebreak
 
 # Présentation du projet
 
